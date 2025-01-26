@@ -1,3 +1,3 @@
 # Nicholas' Project Page
 
-<a herf="intro_to_html/index.html">Intro To HTML</a>
+<a href="intro_to_html/index.html">Intro To HTML</a>
